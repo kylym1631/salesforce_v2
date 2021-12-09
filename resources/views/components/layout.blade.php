@@ -27,9 +27,10 @@
 
 
     <!--====== Style CSS ======-->
-    <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
     <link rel="stylesheet" href="assets/css/tailwindcss.css">
     <link rel="stylesheet" href="assets/css/tailwind.css">
+    <link rel="stylesheet" href="{{asset('css/app.css')}}">
+
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Document</title>
 </head>

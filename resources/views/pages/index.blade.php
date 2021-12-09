@@ -1,5 +1,6 @@
 <x-layout>
  @include('_header')
+{{--    {{__('data.test')}}--}}
 
     <div class="pt-24 brand-area">
         <div class="container">
@@ -33,7 +34,7 @@
     @include('sections.about')
     @include('sections.reason')
     @include('sections.mentors')
-    @include('sections.testimonials')
+{{--    @include('sections.testimonials')--}}
 
 
 

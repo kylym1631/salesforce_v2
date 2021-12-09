@@ -6,7 +6,8 @@
             <div class="w-full lg:w-2/3">
                 <div class="pb-10 text-center section-title">
                     <div class="m-auto line"></div>
-                    <h3 class="title">Clean and simple design, <span> Comes with everything you need to get started!</span></h3>
+                    <h3 class="title">The Best
+                        <span> Introduction to Salesforce</span></h3>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -19,9 +20,9 @@
                         <i class="lni lni-baloon"></i>
                     </div>
                     <div class="mt-8 services-content">
-                        <h4 class="mb-8 text-xl font-bold text-gray-900">Clean</h4>
-                        <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
-                        <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                        <h4 class="mb-8 text-xl font-bold text-gray-900">Simple</h4>
+                        <p class="mb-8">Salesforce CRM can provide a faster, easier, more secure and simpler way to store your customer data, interact with customers, generate more leads and sales opportunities.</p>
+{{--                        <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>--}}
                     </div>
                 </div> <!-- single services -->
             </div>
@@ -34,8 +35,8 @@
                     </div>
                     <div class="mt-8 services-content">
                         <h4 class="mb-8 text-xl font-bold text-gray-900">Robust</h4>
-                        <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
-                        <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                        <p class="mb-8">It is easy to manage. As a relatively small organization without a great deal of in-house IT knowledge, you will still be able to implement changes on the administration side.</p>
+{{--                        <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>--}}
                     </div>
                 </div> <!-- single services -->
             </div>
@@ -48,8 +49,8 @@
                     </div>
                     <div class="mt-8 services-content">
                         <h4 class="mb-8 text-xl font-bold text-gray-900">Powerful</h4>
-                        <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
-                        <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                        <p class="mb-8">Salesforce  is packed with features such as contact management, task management,  collaboration tools, customer engagement tools, analytics and an  mobile-ready dashboard.</p>
+{{--                        <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>--}}
                     </div>
                 </div> <!-- single services -->
             </div>

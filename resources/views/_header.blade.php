@@ -47,7 +47,7 @@
                                     <a class="page-scroll" href="#team">Team</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="page-scroll" href="#blog">Blog</a>
+                                    <a class="page-scroll" href="#contact">Contacts</a>
                                 </li>
                             </ul>
                         </div> <!-- navbar collapse -->
@@ -66,7 +66,7 @@
                         <h3 class="text-4xl font-light leading-tight text-white header-sub-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Sky Bridges Trainings</h3>
                         <h2 class="mb-3 text-4xl font-bold text-white header-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Accelerate Your Path to Salesforce Certification with us!</h2>
                         <p class="mb-8 text-white text wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s">World’s #1 customer relationship management (CRM) platform</p>
-                        <a href="#" class="main-btn gradient-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Get Started</a>
+                        <x-main-button/>
                     </div> <!-- header hero content -->
                 </div>
             </div> <!-- row -->

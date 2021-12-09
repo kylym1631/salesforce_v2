@@ -44,7 +44,8 @@
                                 </ul>
                             </div>
                             <div class="team_content py-5 px-8 relative">
-                                <h4 class="team_name text-xl md:text-2xl"><a href="#" class="text-black group-hover:text-white">Askar Osmonov</a></h4>
+                                <h4 class="team_name text-xl md:text-2xl"><a href="#" class="text-black group-hover:text-white">Askar
+                                        <br> Osmonov</a></h4>
                                 <p class="mt-2 transition-all duration-300 group-hover:text-white">IT Manager</p>
                             </div>
                         </div> <!-- single team -->

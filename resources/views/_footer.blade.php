@@ -1,7 +1,7 @@
 <!--====== FOOTER PART START ======-->
 <footer id="footer" class="relative z-10 footer-area pt-120">
     <div class="footer-bg" style="background-image: url(assets/images/footer-bg.jpg);"></div>
-    <div class="container">
+    <div class="container" id="contact">
         <div class="row justify-end">
             <div class="w-full lg:w-1/1">
                 <div class="contact_wrapper mt-11">
@@ -10,7 +10,8 @@
                     </div> <!-- section title -->
 
                     <div class="contact_form">
-                        <form id="contact-form" action="/" method="POST">
+                        <form id="contact-form" action="" method="POST">
+                            @csrf
                             <div class="row">
                                 <div class="w-full md:w-1/2">
                                     <div class="mx-3">
