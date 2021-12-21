@@ -21,8 +21,8 @@
                                 <img src="assets/images/aalambek.jpg" alt="team" class="w-full">
                                 <ul class="social absolute top-4 right-8">
                                     <li><a href="https://www.facebook.com/aalambek.ulukbekov.9"><i class="lni lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-whatsapp"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://wa.me/48780097009"><i class="lni lni-whatsapp"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/aalambek-ulukbek-uulu-0ab490176/"><i class="lni lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div>
                             <div class="team_content py-5 px-8 relative">
@@ -38,14 +38,14 @@
                             <div class="team_image relative">
                                 <img src="assets/images/askar.jpg" alt="team" class="w-full">
                                 <ul class="social absolute top-4 right-8">
-                                    <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://www.facebook.com/AskarOsmonov05"><i class="lni lni-facebook-filled"></i></a></li>
+                                    <li><a href="https://wa.me/48796497299"><i class="lni lni-whatsapp"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/askarosmonovdev/"><i class="lni lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div>
                             <div class="team_content py-5 px-8 relative">
                                 <h4 class="team_name text-xl md:text-2xl"><a href="#" class="text-black group-hover:text-white">Askar
-                                        <br> Osmonov</a></h4>
+                                         Osmonov</a></h4>
                                 <p class="mt-2 transition-all duration-300 group-hover:text-white">IT Manager</p>
                             </div>
                         </div> <!-- single team -->
@@ -57,13 +57,13 @@
                             <div class="team_image relative">
                                 <img src="assets/images/idris.jpeg" alt="team" class="w-full">
                                 <ul class="social absolute top-4 right-8">
-                                    <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://www.facebook.com/idiris.abdukhamitov"><i class="lni lni-facebook-filled"></i></a></li>
+                                    <li><a href="https://wa.me/48888637153"><i class="lni lni-whatsapp"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/abdukhamitov/"><i class="lni lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div>
                             <div class="team_content py-5 px-8 relative">
-                                <h4 class="team_name text-xl md:text-2xl"><a href="#" class="text-black group-hover:text-white">Abdukhamitov Idris</a></h4>
+                                <h4 class="team_name text-xl md:text-2xl"><a href="#" class="text-black group-hover:text-white">Abdukhamitov Idiris</a></h4>
                                 <p class="mt-2 transition-all duration-300 group-hover:text-white">Developer</p>
                             </div>
                         </div> <!-- single team -->
@@ -75,9 +75,9 @@
                             <div class="team_image relative">
                                 <img src="assets/images/islambek.png" alt="team" class="w-full">
                                 <ul class="social absolute top-4 right-8">
-                                    <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://www.facebook.com/islambekbayjigitov"><i class="lni lni-facebook-filled"></i></a></li>
+                                    <li><a href="https://wa.me/48780058505"><i class="lni lni-whatsapp"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/islambek-baizhigitov/"><i class="lni lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div>
                             <div class="team_content py-5 px-8 relative">

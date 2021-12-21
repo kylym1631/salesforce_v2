@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
 
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Document</title>
+    <title>Sky Force</title>
 </head>
 <body>
 {{$slot}}
