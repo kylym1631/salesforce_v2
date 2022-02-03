@@ -19,9 +19,7 @@ use App\Http\Controllers\LocalizationController;
 Route::get('/', function () {
     return view('pages.index');
 });
-Route::post('/', function () {
-    return '<h1>message has been sent</h1>';
-});
+
 Route::get('lang/{locale}', [LocalizationController::class, 'index']);
 
 

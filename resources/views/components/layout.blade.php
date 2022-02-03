@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="assets/css/tiny-slider.css">
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css">
 
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
     <!--====== Style CSS ======-->
     <link rel="stylesheet" href="assets/css/tailwindcss.css">

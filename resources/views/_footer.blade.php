@@ -1,22 +1,31 @@
 <!--====== FOOTER PART START ======-->
+
 <footer id="footer" class="relative z-10 footer-area pt-120">
     <div class="footer-bg" style="background-image: url(assets/images/footer-bg.jpg);"></div>
     <div class="container" id="contact">
         <div class="row justify-end">
             <div class="w-full lg:w-1/1">
                 <div class="contact_wrapper mt-11">
-                    <div class="section_title pb-4">
-                        <h4 class="sub_title">Get In Touch</h4>
-                    </div> <!-- section title -->
+                    <div class="relative max-w-4xl">
+                        <div
+                            class="absolute z-10 inset-0 bg-green-200 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-lg">
+                        </div>
+                        <div class="relative z-20 bg-white md:flex justify-between p-6 shadow-lg rounded-lg w-full max-w-4xl">
+                            <div class="sm:flex flex-col justify-between space-y-6 md:pr-10">
+                                <div class="">
+                                    <h2 class="pt-1 text-3xl font-bold text-gray-800">Get In Touch</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-                    <div class="contact_form">
-                        <form id="contact-form" action="" method="POST">
+                    <div class="contact_form" id="contact-form" >
                             @csrf
                             <div class="row">
                                 <div class="w-full md:w-1/2">
                                     <div class="mx-3">
                                         <div class="single_form mt-8">
-                                            <input name="name" id="name" type="text" placeholder="Name" class="w-full rounded-md py-4 px-6 border border-solid border-body-color">
+                                            <input name="name" id="name" type="text" placeholder="Name" class="w-full rounded-md py-4 px-6 border border-solid border-body-color" >
                                         </div> <!-- single form -->
                                     </div>
                                 </div>
@@ -38,12 +47,12 @@
                                 <div class="w-full">
                                     <div class="mx-3">
                                         <div class="single_form mt-8">
-                                            <button type="submit" class="gradient-btn contact-btn">Submit</button>
+                                            <button onclick="sendMail();clearInput()"
+                                                    class="gradient-btn contact-btn">Send</button>
                                         </div> <!-- single form -->
                                     </div>
                                 </div>
                             </div> <!-- row -->
-                        </form>
                     </div> <!-- contact form -->
                 </div> <!-- contact wrapper -->
             </div>
@@ -88,7 +97,9 @@
     </div> <!-- container -->
     <div id="particles-2" class="particles"></div>
 </footer>
-
+<div id="flash-message" class="hidden fixed bg-blue-600 text-white py-2 px-4 rounded-xl bottom-3 right-3 text-sm mr-24 z-50">
+    <p class="text-white">Message has been sent</p>
+</div>
 <!--====== FOOTER PART ENDS ======-->
 
 <x-to-top/>
@@ -124,3 +135,11 @@
 
 <!--====== Main js ======-->
 <script src="assets/js/main.js"></script>
+
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+<script type="text/javascript">
+    (function() {
+        emailjs.init("user_DCbQmuZQii4UK0njEeRZj");
+    })();
+</script>
