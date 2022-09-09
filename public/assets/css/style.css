@@ -38,4 +38,9 @@
     padding-right:10px;
     padding-left:10px;
 }
+.partners-active .slick-list .slick-track{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
+}

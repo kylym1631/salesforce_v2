@@ -8,7 +8,7 @@
                 <div class="contact_wrapper mt-11">
                     <div class="relative max-w-4xl">
                         <div
-                            class="absolute z-10 inset-0 bg-green-200 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-lg">
+                            class="absolute z-10 inset-0 gradient-btn opacity-80 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-lg">
                         </div>
                         <div class="relative z-20 bg-white md:flex justify-between p-6 shadow-lg rounded-lg w-full max-w-4xl">
                             <div class="sm:flex flex-col justify-between space-y-6 md:pr-10">
