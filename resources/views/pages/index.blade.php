@@ -47,9 +47,7 @@
                     <div class="wow fadeIn " data-wow-duration="1.5s" data-wow-delay="0.5s">
                         <img src="https://skybridges.eu/img/partners/accenture.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
-                    <div class="wow fadeIn " data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/akademia.png" alt="brand" class="w-40">
-                    </div> <!-- single testimonial -->
+
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
                         <img src="https://skybridges.eu/img/partners/atos.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
@@ -104,9 +102,7 @@
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
                         <img src="https://skybridges.eu/img/partners/uta.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
-                    <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/vistula.png" alt="brand" class="w-40">
-                    </div> <!-- single testimonial -->
+
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
