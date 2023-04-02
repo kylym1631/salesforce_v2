@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Controllers\PageDataController;
+use App\Mail\ContactFormMailable;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\App;
 use App\Http\Controllers\LocalizationController;
@@ -19,8 +23,5 @@ use App\Http\Controllers\LocalizationController;
 Route::get('/', function () {
     return view('pages.index');
 });
-
+Route::get('/frontend',[PageDataController::class,'frontend']);
 Route::get('lang/{locale}', [LocalizationController::class, 'index']);
-
-
-

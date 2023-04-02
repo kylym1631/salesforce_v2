@@ -42,65 +42,65 @@
 {{--            </div> <!-- row -->--}}
             <div class="row partners-active wow fadeInUpBig  flex items-center justify-center" data-wow-duration="1s" data-wow-delay="0.8s">
                     <div class=" wow fadeIn " data-wow-duration="1.5s" data-wow-delay="0.5s">
-                            <img src="https://skybridges.eu/img/partners/abinbev.png" alt="brand" class="w-40 ">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/abinbev.png" alt="brand" class="w-40 ">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn " data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/accenture.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/accenture.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
 
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/atos.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/atos.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/cbre.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/cbre.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/citibank.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/citibank.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/collabera.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/collabera.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/deloitte.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/deloitte.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/finally.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/finally.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/gft.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/gft.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/google.png" alt="brand class="w-40"">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/google.png" alt="brand class="w-40"">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/kliqxe.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/kliqxe.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/kyrgyz_global.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/kyrgyz_global.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/limitless.svg" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/limitless.svg" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/netguru.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/netguru.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/nokia.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/nokia.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/pwc.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/pwc.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/salesforce.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/salesforce.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/schneider.svg" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/schneider.svg" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/staples.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/staples.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <img src="https://skybridges.eu/img/partners/uta.png" alt="brand" class="w-40">
+                        <img src="https://skybridges.eu/sky_bridges/img/partners/uta.png" alt="brand" class="w-40">
                     </div> <!-- single testimonial -->
 
             </div> <!-- row -->

@@ -7,7 +7,8 @@
                 <div class="relative pb-8 mt-12 video-content wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                     <img class="absolute bottom-0 left-0 -ml-8 dots" src="assets/images/dots.svg" alt="dots">
                     <div class="relative mr-6 rounded-lg shadow-md video-wrapper">
-                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/R9z0T-ODx2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{--                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/R9z0T-ODx2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--}}
+                        <iframe width="100%" height="300px" src="https://www.youtube.com/embed/27GzovPhQhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div> <!-- video wrapper -->
                 </div> <!-- video content -->
             </div>
