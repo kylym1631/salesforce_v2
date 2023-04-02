@@ -32,7 +32,7 @@
                         <div class="absolute left-0 z-20 hidden w-full px-5 py-3 duration-300 bg-white shadow lg:w-auto collapse navbar-collapse lg:block top-100 mt-full lg:static lg:bg-transparent lg:shadow-none" id="navbarOne">
                             <ul id="nav" class="items-center content-start mr-auto lg:justify-end navbar-nav lg:flex">
                                 <li class="nav-item active">
-                                    <a class="page-scroll" href="#home">Home</a>
+                                    <a class="page-scroll" href="/frontend">Frontend Bootcamp</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="page-scroll" href="#features">Features</a>

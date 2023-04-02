@@ -251,7 +251,7 @@
                             <a href="https://skyforce.dev"
                                class="inline-flex items-center text-white bg-black rounded-full p-1 pr-2 sm:text-base lg:text-sm xl:text-base hover:text-gray-200">
                                 <span
-                                    class="px-3 py-0.5 text-white text-xs font-semibold leading-5 uppercase tracking-wide bg-green-500 rounded-full">Team SkyForce</span>
+                                    class="px-3 py-0.5 text-white text-xs font-semibold leading-5 uppercase tracking-wide bg-green-500 rounded-full">SkyForce</span>
                                 <span class="ml-4 text-sm">Visit our main page</span>
                                 <svg class="ml-2 w-5 h-5 text-gray-500"
                                      x-description="Heroicon name: solid/chevron-right"
@@ -636,7 +636,7 @@ possible interactivity
 @livewireScripts
 
 <script>
-    const reveals = document.querySelectorAll(" .team-list, .advantage-list, .faq-list,.form,.price-list");
+    const reveals = document.querySelectorAll(" .advantage-list, .faq-list, .price-list");
 
     reveals.forEach((el) => {
         el.classList.add("loading");
