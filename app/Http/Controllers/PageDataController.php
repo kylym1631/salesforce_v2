@@ -34,7 +34,7 @@ class PageDataController extends Controller
 
                 'tugolbai'=>[
                     'name'=>'Tugolbai Paiziliev',
-                    'role'=>'Founder',
+                    'role'=>'Program Director',
                     'img'=>'tugolbai.jpg',
                     'linkedin'=>'https://www.linkedin.com/in/tugolbai-paiziliev-1a4940141/',
                     'instagram'=>'https://www.instagram.com/tugolbai36/'
@@ -46,12 +46,12 @@ class PageDataController extends Controller
                     'linkedin'=>'https://www.linkedin.com/company/sky-bridges/about/',
                     'instagram'=>'https://www.instagram.com/aselina_pq/'
                 ],
-                'askar'=>[
-                    'name'=>'Askar Osmonov',
-                    'role'=>'Manager Director',
-                    'img'=>'askar-zont.jpg',
-                    'linkedin'=>'https://www.linkedin.com/in/askarosmonovdev/',
-                    'instagram'=>'https://www.instagram.com/_a.osmonov/'
+                'davron'=>[
+                    'name'=>'Davronbek Sattorov',
+                    'role'=>'Career Coach',
+                    'img'=>'davron.jpeg',
+                    'linkedin'=>'https://www.linkedin.com/in/davronbek-sattorov-98119319b/',
+                    'instagram'=>'https://www.instagram.com/sattorovvsdavronbek/'
                 ],
             ],
             'advantages'=>[
