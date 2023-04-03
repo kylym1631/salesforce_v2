@@ -18,7 +18,7 @@
 
             <ul role="list" class="flex justify-center items-center space-x-5">
                 <li>
-                    <a href="#" class="text-gray-400 hover:text-green-400">
+                    <a href="{{$person['instagram']}}" class="text-gray-400 hover:text-green-400">
                         <span class="sr-only">Instagram</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="currentColor" stroke-linecap="round" stroke-linejoin="round">
                             <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
