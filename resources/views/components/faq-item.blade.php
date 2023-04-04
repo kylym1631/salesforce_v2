@@ -1,4 +1,4 @@
-<div class="bg-gray-800 rounded-lg p-5">
+<div class="faq-list bg-gray-800 rounded-lg p-5">
     <div class="flex justify-between items-center border-b gap-4 pb-4 mb-4">
         <h3 class="text-green-500 sm:text-lg md:text-xl font-semibold">{{$question['question']}}</h3>
 

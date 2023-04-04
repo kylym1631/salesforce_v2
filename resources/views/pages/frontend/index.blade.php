@@ -42,7 +42,7 @@
         background-color: #eee;
         color: black;
         box-shadow: -5px 5px #aaa;
-        animation: glitch 5s linear infinite;
+        animation: glitch 3s linear infinite;
         font-family: monospace;
         transition: all .2s;
     }
@@ -475,7 +475,7 @@ possible interactivity
         </div>
         <!-- text - end -->
 
-        <div class="faq-list grid sm:grid-cols-2 gap-4 md:gap-8">
+        <div class=" grid sm:grid-cols-2 gap-4 md:gap-8">
             @foreach($faqs as $question )
                 <x-faq-item :question="$question"/>
             @endforeach
