@@ -1,5 +1,5 @@
-<li class="  py-10 px-6 bg-gray-800 text-center rounded-lg xl:px-10 xl:text-left group hover:shadow-lg hover:shadow-green-500 transition duration-500 ease-in-out">
-    <div class="space-y-6 xl:space-y-10">
+<li class="team-list  py-10 px-6 bg-gray-800 text-center rounded-lg xl:px-10 xl:text-left group hover:shadow-lg hover:shadow-green-500 transition duration-500 ease-in-out">
+    <div class=" space-y-6 xl:space-y-10">
         <img
             class="mx-auto h-40 w-40 object-cover  rounded-full xl:w-56 xl:h-56  transition duration-500 ease-in-out transform group-hover:rounded-full group-hover:scale-110"
             src="assets/images/{{$person['img']}}" alt="">

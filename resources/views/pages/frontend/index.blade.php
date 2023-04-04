@@ -138,7 +138,7 @@
                     <div class="flex items-center justify-between w-full md:w-auto">
                         <a href="{{env('APP_URL').'/frontend'}}">
                             <span class="sr-only">SkyForce</span>
-                            <img class="h-8 w-auto sm:h-20" src="assets/images/logo-3.png" alt="">
+                            <img class="h-12 w-auto sm:h-20" src="assets/images/logo-3.png" alt="">
                         </a>
                         <div class="-mr-2 flex items-center md:hidden">
                             <button type="button"
@@ -346,7 +346,7 @@ possible interactivity
     <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
         <!-- text - start -->
         <div class="mb-10 md:mb-16">
-            <h2 class="text-gray-700 text-2xl lg:text-4xl font-bold text-center mb-4 md:mb-6">Our competitive
+            <h2 class=" text-gray-700 text-2xl lg:text-4xl font-bold text-center mb-4 md:mb-6">Our competitive
                 advantage</h2>
 
             <p class="max-w-screen-md text-gray-600 md:text-lg text-center mx-auto">
@@ -355,7 +355,7 @@ possible interactivity
         </div>
         <!-- text - end -->
 
-        <div class="advantage-list grid sm:grid-cols-2 xl:grid-cols-3 gap-12 xl:gap-16">
+        <div class=" grid sm:grid-cols-2 xl:grid-cols-3 gap-12 xl:gap-16">
             <!-- feature - start -->
             @foreach($advantages as $advantage)
                 <x-advantage-item :advantage="$advantage"/>
@@ -636,7 +636,9 @@ possible interactivity
 @livewireScripts
 
 <script>
-    const reveals = document.querySelectorAll(" .advantage-list,  .faq-list, .price-list");
+
+    // reveal
+    const reveals = document.querySelectorAll(" .advantage-list, .team-list,  .faq-list, .price-list");
 
     reveals.forEach((el) => {
         el.classList.add("loading");
@@ -645,7 +647,7 @@ possible interactivity
     const observerOptions = {
         root: null,
         rootMargin: "0px",
-        threshold: 0.3
+        threshold: 0.1
     };
 
     function observerCallback(entries) {

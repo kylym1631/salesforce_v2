@@ -1,5 +1,5 @@
 <div
-    class=" team-list rounded-lg    relative  bg-white p-6 focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-500">
+    class="advantage-list rounded-lg    relative  bg-white p-6 focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-500">
     <div>
         <span class="rounded-lg inline-flex p-3 bg-{{$advantage['icon-color']}}-50 text-{{$advantage['icon-color']}}-700 ring-4 ring-white">
                   {!! $advantage['icon'] !!}
