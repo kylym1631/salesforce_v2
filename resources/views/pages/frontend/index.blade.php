@@ -324,7 +324,7 @@ possible interactivity
                 <p class="text-xl text-gray-300"> Meet the team who will support you on your web development journey</p>
             </div>
             <ul role="list"
-                class="team-list space-y-4 sm:grid sm:grid-cols-2 sm:gap-6 sm:space-y-0 lg:grid-cols-3 lg:gap-8">
+                class=" space-y-4 sm:grid sm:grid-cols-2 sm:gap-6 sm:space-y-0 lg:grid-cols-3 lg:gap-8">
                 @foreach($teams as $person)
                     <x-teams-item :person="$person"/>
                 @endforeach
@@ -636,7 +636,7 @@ possible interactivity
 @livewireScripts
 
 <script>
-    const reveals = document.querySelectorAll(" .advantage-list, .faq-list, .price-list");
+    const reveals = document.querySelectorAll(" .advantage-list, .team-list .faq-list, .price-list");
 
     reveals.forEach((el) => {
         el.classList.add("loading");
@@ -644,7 +644,7 @@ possible interactivity
 
     const observerOptions = {
         root: null,
-        rootMargin: "0px",
+        rootMargin: "300px",
         threshold: 0.3
     };
 

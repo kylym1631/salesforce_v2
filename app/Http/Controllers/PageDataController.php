@@ -59,7 +59,7 @@ class PageDataController extends Controller
                     'title'=>'Personalized attention',
                     'description'=>'With a maximum of 10 students per class, our instructors can provide personalized attention to help you succeed in your learning journey',
                     'icon'=>'
-                        <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg"
+                        <svg class="w-10 h-10" xmlns="http://www.w3.org/2000/svg"
                              fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                   d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path>
@@ -73,7 +73,7 @@ class PageDataController extends Controller
                     'title'=>'At your own pace',
                     'description'=>'Learn web development in 4-6 months at your own pace. Completion of the course depends on learning speed of your group',
                     'icon'=>'
-                    <svg class="h-6 w-6"  xmlns="http://www.w3.org/2000/svg"
+                    <svg class="w-10 h-10"  xmlns="http://www.w3.org/2000/svg"
                          fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                               d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
@@ -86,7 +86,7 @@ class PageDataController extends Controller
                     'title'=>'Career support',
                     'description'=>'Get career support, job referrals, and build a portfolio website under our guidance to showcase your skills to potential employers. We\'ll host your site securely.',
                     'icon'=>'
-                    <svg class="h-6 w-6"  xmlns="http://www.w3.org/2000/svg"
+                    <svg class="w-10 h-10"  xmlns="http://www.w3.org/2000/svg"
                          fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                         <path d="M12 14l9-5-9-5-9 5 9 5z"></path>
                         <path
@@ -103,7 +103,7 @@ class PageDataController extends Controller
                     'title'=>'Flexible payment plans',
                     'description'=>'We offer flexible payment plans to suit your needs, including a low monthly payment option of 150 EUR and the ability to pay the rest later once you secure a job position',
                     'icon'=>'
-                        <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg"
+                        <svg class="w-10 h-10" xmlns="http://www.w3.org/2000/svg"
                              fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                   d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z"></path>
@@ -118,7 +118,7 @@ class PageDataController extends Controller
                     'title'=>'Guaranteed internships & projects',
                     'description'=>'Real-world experience with guaranteed internships and projects. Build skills and a portfolio that showcases your abilities',
                     'icon'=>'
-                    <svg class="h-6 w-6"  xmlns="http://www.w3.org/2000/svg"
+                    <svg class="w-10 h-10"  xmlns="http://www.w3.org/2000/svg"
                          fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                               d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
@@ -133,7 +133,7 @@ class PageDataController extends Controller
                     'title'=>'Learn In-Demand Web Development Skills',
                     'description'=>'Our bootcamp covers the latest web development technologies, including HTML, CSS, JavaScript, React, and more. You\'ll learn the skills necessary to create modern and responsive web applications, making you a highly sought-after candidate in the tech industry',
                     'icon'=>'
-                        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10" fill="none" viewBox="0 0 24 24"
                              stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                   d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"/>
