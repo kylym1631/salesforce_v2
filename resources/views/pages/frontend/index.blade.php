@@ -636,7 +636,7 @@ possible interactivity
 @livewireScripts
 
 <script>
-    const reveals = document.querySelectorAll(" .advantage-list, .team-list .faq-list, .price-list");
+    const reveals = document.querySelectorAll(" .advantage-list,  .faq-list, .price-list");
 
     reveals.forEach((el) => {
         el.classList.add("loading");
@@ -644,7 +644,7 @@ possible interactivity
 
     const observerOptions = {
         root: null,
-        rootMargin: "300px",
+        rootMargin: "0px",
         threshold: 0.3
     };
 
