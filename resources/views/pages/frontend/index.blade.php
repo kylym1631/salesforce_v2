@@ -503,8 +503,8 @@ possible interactivity
                 </div>
 
                 <div class="space-x-2 mb-4">
-                    <span class="text-gray-100 text-4xl font-bold">$250</span>
-                    <span class="text-gray-300 text-2xl line-through">$300</span>
+                    <span class="text-gray-100 text-4xl font-bold">€250</span>
+                    <span class="text-gray-300 text-2xl line-through">€300</span>
                 </div>
 
                 <ul class="text-gray-300 space-y-2 mb-6">
@@ -533,8 +533,8 @@ possible interactivity
                 </div>
 
                 <div class="space-x-2 mb-4">
-                    <span class="text-white text-4xl font-bold">$150</span>
-                    <span class="text-indigo-100 text-xl">and $150 later</span>
+                    <span class="text-white text-4xl font-bold">€150</span>
+                    <span class="text-indigo-100 text-xl">and €150 later</span>
                 </div>
 
                 <ul class="text-indigo-100 space-y-2 mb-6">
