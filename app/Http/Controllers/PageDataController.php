@@ -84,7 +84,7 @@ class PageDataController extends Controller
                 ],
                 'career'=>[
                     'title'=>'Career support',
-                    'description'=>'We provide our graduates with referrals at top companies, career support, including job placement assistance, resume writing tips, and interview preparation.',
+                    'description'=>'Get career support, job referrals, and build a portfolio website under our guidance to showcase your skills to potential employers. We\'ll host your site securely.',
                     'icon'=>'
                     <svg class="h-6 w-6"  xmlns="http://www.w3.org/2000/svg"
                          fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -116,7 +116,7 @@ class PageDataController extends Controller
 
                 'internship'=>[
                     'title'=>'Guaranteed internships & projects',
-                    'description'=>'Build your skills and portfolio with real-world experience. Our program offers guaranteed internships and projects that will help you develop the skills you need to succeed in the workforce and build a portfolio that showcases your abilities.',
+                    'description'=>'Real-world experience with guaranteed internships and projects. Build skills and a portfolio that showcases your abilities',
                     'icon'=>'
                     <svg class="h-6 w-6"  xmlns="http://www.w3.org/2000/svg"
                          fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -130,8 +130,8 @@ class PageDataController extends Controller
 
                 ],
                 'hosting'=>[
-                    'title'=>'Build your projects, we will host it for you!',
-                    'description'=>'Showcase your web development skills to potential employers by building a personalized portfolio website under our guidance.We\'ll host your websites on our servers, ensuring that your site is secure and always accessible to visitors.',
+                    'title'=>'Learn In-Demand Web Development Skills',
+                    'description'=>'Our bootcamp covers the latest web development technologies, including HTML, CSS, JavaScript, React, and more. You\'ll learn the skills necessary to create modern and responsive web applications, making you a highly sought-after candidate in the tech industry',
                     'icon'=>'
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
                              stroke="currentColor">
