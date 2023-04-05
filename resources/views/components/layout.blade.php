@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="assets/css/tiny-slider.css">
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css">
 
-{{--    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">--}}
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
 
     <!--====== Style CSS ======-->
@@ -35,6 +35,8 @@
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
 
     <link rel="stylesheet" href="assets/css/style.css">
+{{--    <script src="{{ mix('js/app.js') }}" defer></script>--}}
+
     <title>Sky Force</title>
 </head>
 <body>

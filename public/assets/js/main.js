@@ -426,27 +426,27 @@ $(function () {
 
 
 });
- function sendMail(params){
-    var tempParams = {
-        name: document.getElementById("name").value,
-        email: document.getElementById("email").value,
-        message: document.getElementById("message").value,
-    }
-
-    emailjs.send('service_onxxdcl','template_fb2s5vs',tempParams)
-        .then(function (res){
-            if (res.status = 200){
-                document.getElementById('flash-message').classList.remove('hidden');
-                setTimeout(function() {
-                    document.getElementById("flash-message").classList.add("hidden");
-                    }, 2000);
-            }
-
-        })
- }
- function clearInput()
- {
-     document.getElementById('name').value = '';
-     document.getElementById('email').value = '';
-     document.getElementById('message').value = '';
- }
+ // function sendMail(params){
+ //    var tempParams = {
+ //        name: document.getElementById("name").value,
+ //        email: document.getElementById("email").value,
+ //        message: document.getElementById("message").value,
+ //    }
+ //
+ //    emailjs.send('service_onxxdcl','template_fb2s5vs',tempParams)
+ //        .then(function (res){
+ //            if (res.status = 200){
+ //                document.getElementById('flash-message').classList.remove('hidden');
+ //                setTimeout(function() {
+ //                    document.getElementById("flash-message").classList.add("hidden");
+ //                    }, 2000);
+ //            }
+ //
+ //        })
+ // }
+ // function clearInput()
+ // {
+ //     document.getElementById('name').value = '';
+ //     document.getElementById('email').value = '';
+ //     document.getElementById('message').value = '';
+ // }

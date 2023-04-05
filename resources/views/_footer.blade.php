@@ -66,13 +66,18 @@
 <div id="flash-message" class="hidden fixed bg-blue-600 text-white py-2 px-4 rounded-xl bottom-3 right-3 text-sm mr-24 z-50">
     <p class="text-white">Message has been sent</p>
 </div>
+
+<div style="margin-left: auto; margin-right: auto; bottom: 50px" class=" fixed bg-blue-600 text-white py-2 px-4 rounded-xl  text-sm  z-50">
+    <a href="{{env('APP_URL').'/frontend'}}" class="text-white">Are you looking for a frontend Web Development course?</a>
+</div>
 <!--====== FOOTER PART ENDS ======-->
 
-<x-to-top/>
+{{--<x-to-top/>--}}
 
 
 
 
+@livewireScripts
 
 
 <!--====== Jquery js ======-->
