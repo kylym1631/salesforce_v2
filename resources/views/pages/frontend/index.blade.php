@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Frontend bootcamp</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/images/logo-3.png" />
+    <meta property="og:title" content="SkyForce Frontend" />
+    <meta property="og:url" content="{{env('APP_URL').'/frontend'}}"/>
+    <meta property="og:description" content="Frontend Web Development Bootcamp in Warsaw. With experienced mentors" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="{{ mix('js/app.js') }}" defer></script>
     @livewireStyles
