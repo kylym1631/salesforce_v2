@@ -179,9 +179,10 @@ class PageDataController extends Controller
                     'emoji'=>'💼'
                 ],
                 [
-                    'name'=>'Free snacks in the office',
-                    'emoji'=>'☕️'
+                    'name'=>'Access to career support, job referrals, and guaranteed internship opportunities',
+                    'emoji'=>'🚀'
                 ],
+
                 [
                     'name'=>'Flexible payment plan to help you succeed on your journey to becoming a web developer',
                     'emoji'=>'‍👨🏻‍💻'
@@ -197,8 +198,8 @@ class PageDataController extends Controller
                     'answer'=>'The next bootcamp will start on May 1, 2023. To enroll, please leave your contact details on our website or reach out to us through any of our social media channels'
                 ],
                 [
-                    'question'=>'Can I choose between online and offline classes?',
-                    'answer'=>'Yes, you can. If you are in Warsaw, you have the option to attend the classes in our office. Otherwise, you can participate online through a camera that will capture the lessons. But we advise you to attend offline'
+                    'question'=>'How Can I Practice What I Learn in the Lessons?',
+                    'answer'=>'Our group sessions provide a platform for you to ask questions, receive motivation, and share thoughts with others. It\'s an opportunity to practice and reinforce what you have learned in the lessons.'
                 ],
                 [
                     'question'=>'Is there a limit to the group size?',

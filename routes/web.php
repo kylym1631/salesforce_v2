@@ -21,7 +21,8 @@ use App\Http\Controllers\LocalizationController;
 */
 
 Route::get('/', function () {
-    return view('pages.index');
+//    return view('pages.index');
+    return redirect('/frontend');
 });
 Route::get('/frontend',[PageDataController::class,'frontend']);
 Route::get('lang/{locale}', [LocalizationController::class, 'index']);
